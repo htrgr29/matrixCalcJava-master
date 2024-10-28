@@ -1,0 +1,52 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/marta/Documents/NetBeansProjects/matrixCalcJava-master/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/marta/Documents/NetBeansProjects/matrixCalcJava-master/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'matrixproject 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'matrixproject 1.0-SNAPSHOT API'
+net.posmyk.marta.matrixproject
+net.posmyk.marta.mvc.controller
+net.posmyk.marta.mvc.model
+net.posmyk.marta.mvc.view
+C:\Users\marta\Documents\NetBeansProjects\matrixCalcJava-master\src\main\java = 1729241957112
+C:\Users\marta\Documents\NetBeansProjects\matrixCalcJava-master\target\reports\apidocs\allclasses-index.html = 1729615632763
+C:\Users\marta\Documents\NetBeansProjects\matrixCalcJava-master\target\reports\apidocs\allpackages-index.html = 1729615632767
+C:\Users\marta\Documents\NetBeansProjects\matrixCalcJava-master\target\reports\apidocs\copy.svg = 1729615632816
+C:\Users\marta\Documents\NetBeansProjects\matrixCalcJava-master\target\reports\apidocs\element-list = 1729615632558
+C:\Users\marta\Documents\NetBeansProjects\matrixCalcJava-master\target\reports\apidocs\help-doc.html = 1729615632807
+C:\Users\marta\Documents\NetBeansProjects\matrixCalcJava-master\target\reports\apidocs\index-all.html = 1729615632797
+C:\Users\marta\Documents\NetBeansProjects\matrixCalcJava-master\target\reports\apidocs\index.html = 1729615632742
+C:\Users\marta\Documents\NetBeansProjects\matrixCalcJava-master\target\reports\apidocs\link.svg = 1729615632817
+C:\Users\marta\Documents\NetBeansProjects\matrixCalcJava-master\target\reports\apidocs\member-search-index.js = 1729615632773
+C:\Users\marta\Documents\NetBeansProjects\matrixCalcJava-master\target\reports\apidocs\module-search-index.js = 1729615632768
+C:\Users\marta\Documents\NetBeansProjects\matrixCalcJava-master\target\reports\apidocs\overview-summary.html = 1729615632801
+C:\Users\marta\Documents\NetBeansProjects\matrixCalcJava-master\target\reports\apidocs\overview-tree.html = 1729615632725
+C:\Users\marta\Documents\NetBeansProjects\matrixCalcJava-master\target\reports\apidocs\package-search-index.js = 1729615632770
+C:\Users\marta\Documents\NetBeansProjects\matrixCalcJava-master\target\reports\apidocs\script.js = 1729615632814
+C:\Users\marta\Documents\NetBeansProjects\matrixCalcJava-master\target\reports\apidocs\search-page.js = 1729615632830
+C:\Users\marta\Documents\NetBeansProjects\matrixCalcJava-master\target\reports\apidocs\search.html = 1729615632799
+C:\Users\marta\Documents\NetBeansProjects\matrixCalcJava-master\target\reports\apidocs\search.js = 1729615632826
+C:\Users\marta\Documents\NetBeansProjects\matrixCalcJava-master\target\reports\apidocs\serialized-form.html = 1729615632630
+C:\Users\marta\Documents\NetBeansProjects\matrixCalcJava-master\target\reports\apidocs\stylesheet.css = 1729615632812
+C:\Users\marta\Documents\NetBeansProjects\matrixCalcJava-master\target\reports\apidocs\tag-search-index.js = 1729615632774
+C:\Users\marta\Documents\NetBeansProjects\matrixCalcJava-master\target\reports\apidocs\type-search-index.js = 1729615632772
